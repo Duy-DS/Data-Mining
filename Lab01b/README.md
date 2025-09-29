@@ -1,1 +1,1 @@
-Create Lab01b folder
+Luyện tập cùng với python
