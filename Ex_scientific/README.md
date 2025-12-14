@@ -26,14 +26,14 @@ Thư mục này chứa các bài tập Python cơ bản sử dụng các thư vi
 - **Chức năng**:
   - Nhập bán kính r từ người dùng
   - Tính chu vi: 2 × π × r
-  - Tính diện tích: π × r²
+  - Tính diện tích: π × r × r
   - Hiển thị kết quả
 
 ### 4. Vẽ đồ thị hàm Sin và Cos (ex4_scientific)
 - **Tệp tin**: `ex4_scientific.ipynb`
 - **Mô tả**: Vẽ đồ thị các hàm lượng giác Sin và Cos với trục tọa độ tùy chỉnh
 - **Chức năng**:
-  - Tạo dữ liệu x từ -π đến π
+  - Tạo dữ liệu x từ -π đến π (256 điểm sử dụng numpy.linspace)
   - Tính giá trị Sin(x) và Cos(x)
   - Vẽ đồ thị với màu sắc khác nhau
   - Tùy chỉnh các nhãn trục với ký hiệu toán học (π, -π/2, π/2...)
